@@ -1400,7 +1400,7 @@ export default function MobileHistory() {
 
             {/* Direct Call Command Center Action */}
             <a
-              href="tel:09171234567"
+              href="tel:09066364019"
               style={{
                 display: 'flex',
                 alignItems: 'center',
@@ -1420,7 +1420,7 @@ export default function MobileHistory() {
               }}
             >
               <FiPhone size={16} />
-              <span>Call MDRRMO Balayan (0917-123-4567)</span>
+              <span>Call MDRRMO Balayan (0906-636-4019)</span>
             </a>
           </div>
         ) : null}

@@ -400,7 +400,7 @@ export default function LegalModal({
                 2. Immediate Life-Threatening Emergencies
               </div>
               <p className="legal-paragraph">
-                SendResQPls is an auxiliary reporting tool. In situations of active violence, massive fire, cardiac arrest, or where cellular data is degraded, <strong>always dial Hotline 911 or MDRRMO Balayan directly at 0917-123-4567</strong>.
+                SendResQPls is an auxiliary reporting tool. In situations of active violence, massive fire, cardiac arrest, or where cellular data is degraded, <strong>always dial Hotline 911 or MDRRMO Balayan directly at 0906-636-4019</strong>.
               </p>
 
               <div className="legal-section-heading">

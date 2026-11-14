@@ -604,7 +604,7 @@ export default function MobileOnboarding({ onDone }: { onDone: () => void }) {
                     }}
                   >
                     <span style={{ fontSize: 11.5, fontWeight: 700, color: '#475569' }}>📞 MDRRMO Hotline</span>
-                    <span style={{ fontSize: 11.5, fontWeight: 800, color: '#2563EB' }}>0917-123-4567</span>
+                    <span style={{ fontSize: 11.5, fontWeight: 800, color: '#2563EB' }}>0906-636-4019</span>
                   </div>
                 </div>
               )}

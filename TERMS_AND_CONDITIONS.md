@@ -51,7 +51,7 @@ Filing false, hoax, staged, malicious, or prank emergency incident reports const
 1. **Auxiliary Dispatch Channel:** SendResQPls is a complementary, technology-enabled dispatch coordination tool designed to enhance emergency response. It does not replace national and local emergency voice hotlines.
 2. **Immediate Life-Threatening Emergencies:** If mobile network connectivity is unstable, if the application fails to transmit, or if an incident poses imminent danger to life (such as active structural fires, cardiac arrest, severe trauma, or armed violence), **DO NOT RELY EXCLUSIVELY ON THIS APP**. Call municipal emergency telephone hotlines immediately:
    * **National Emergency Hotline:** `911`
-   * **MDRRMO Balayan Operations Center:** `0917-123-4567`
+   * **MDRRMO Balayan Operations Center:** `0906-636-4019`
    * **BFP Balayan Fire Station:** `(043) 417-2111`
    * **PNP Balayan Police Station:** `(043) 211-4111`
 3. **Response Time Disclaimers:** MDRRMO Balayan and coordinated response teams (BFP, PNP, MHO, Engineering, Rescue) strive for prompt response times. However, response times are subject to factors beyond municipal control, including extreme weather events, road blockages, bridge impassability, resource allocation during concurrent mass-casualty disasters, and distance to remote barangays.
@@ -121,6 +121,6 @@ For administrative inquiries, operational questions, or feedback regarding these
 **Municipal Disaster Risk Reduction and Management Office (MDRRMO Balayan)**  
 **Office:** Balayan Government Center, Plaza Rizal, Balayan, Batangas, 4213, Philippines  
 **Email:** [mdrrmo.balayan@gmail.com](mailto:mdrrmo.balayan@gmail.com)  
-**Hotline:** 911 | **MDRRMO Direct:** 0917-123-4567  
+**Hotline:** 911 | **MDRRMO Direct:** 0906-636-4019  
 
 *Municipality of Balayan, Batangas — Local Government Unit*

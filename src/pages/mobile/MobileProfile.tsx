@@ -994,8 +994,8 @@ export default function MobileProfile() {
             }}>
               <h3 style={{ fontSize: 'clamp(13px, 3.8vw, 15px)', fontWeight: 800, color: '#1E40AF', marginBottom: 12 }}>Contact MDRRMO Balayan</h3>
               <div style={{ display: 'flex', flexDirection: 'column', gap: 10 }}>
-                <a href="tel:09171234567" style={{ display: 'flex', alignItems: 'center', gap: 10, color: '#1E40AF', textDecoration: 'none', fontSize: 14, fontWeight: 600 }}>
-                  <FiPhone size={15} /> 0917-123-4567
+                <a href="tel:09066364019" style={{ display: 'flex', alignItems: 'center', gap: 10, color: '#1E40AF', textDecoration: 'none', fontSize: 14, fontWeight: 600 }}>
+                  <FiPhone size={15} /> 0906-636-4019
                 </a>
                 <a href="mailto:mdrrmo@balayan.gov.ph" style={{ display: 'flex', alignItems: 'center', gap: 10, color: '#1E40AF', textDecoration: 'none', fontSize: 14, fontWeight: 600, wordBreak: 'break-all' }}>
                   <FaEnvelope size={15} /> mdrrmo@balayan.gov.ph

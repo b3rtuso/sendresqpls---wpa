@@ -21,7 +21,7 @@ This Privacy Policy explains how your information is collected, processed, utili
 
 By downloading, installing, registering, or using the SendResQPls mobile application, you explicitly consent to the collection, recording, storage, updating, modification, retrieval, consultation, and use of your personal and incident data in accordance with the terms of this Policy for legitimate disaster risk reduction, life-safety protection, and emergency dispatch purposes.
 
-If you do not agree with any part of this Policy, please do not use the application. In immediate life-threatening situations where you cannot or choose not to use the application, you may contact MDRRMO Balayan directly through official municipal telephone hotlines (e.g., **Hotline 911** or **0917-123-4567**).
+If you do not agree with any part of this Policy, please do not use the application. In immediate life-threatening situations where you cannot or choose not to use the application, you may contact MDRRMO Balayan directly through official municipal telephone hotlines (e.g., **Hotline 911** or **0906-636-4019**).
 
 ---
 
@@ -165,6 +165,6 @@ Data Protection & Privacy Officer
 **Address:** Balayan Government Center, Plaza Rizal, Balayan, Batangas, 4213, Philippines  
 **Official Email:** [mdrrmo.balayan@gmail.com](mailto:mdrrmo.balayan@gmail.com)  
 **Emergency Hotline:** 911  
-**MDRRMO Dispatch:** 0917-123-4567  
+**MDRRMO Dispatch:** 0906-636-4019  
 
 *Republic of the Philippines — Province of Batangas — Municipality of Balayan*
